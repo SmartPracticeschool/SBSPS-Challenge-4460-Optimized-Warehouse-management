@@ -5,3 +5,9 @@ sensor.png shows the iot sensor.
 temp.png shows the monitored room temperature, humidity, product temperture.
 outputgraph.png shows the predicted output of the model.
 demand_forecast.ipynb is the predictive machine learning model(Arima) 
+node-red-chart.json has the flow for creating chart.
+node-red-chart-img.png shows its image.
+node-red-sensor.json has the flow for creating sensor.
+node-red-sensor-img.png shows its image.
+node-red-chatbot.json has the flow for creating chatbot.
+node-red-chatbot-img.png shows its image.
