@@ -11,3 +11,12 @@ node-red-sensor.json has the flow for creating sensor.
 node-red-sensor-img.png shows its image.
 node-red-chatbot.json has the flow for creating chatbot.
 node-red-chatbot-img.png shows its image.
+
+
+
+link of the project:
+https://node-red-connect.eu-gb.mybluemix.net/first
+
+
+link of the video for project overview:
+https://drive.google.com/file/d/17_4EWClDknyllfNhXAGv9guckQzrHgJ2/view?usp=sharing
